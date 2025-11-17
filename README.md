@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Phuc Nguyen</h1>
-<h3 align="center">Experienced Backend Engineer with 3 years of expertise in designing and developing high-performance, scalable backend systems.</h3>
+<h3 align="center">Experienced Backend Engineer with over 3 years of expertise in designing and developing high-performance, scalable backend systems.</h3>
 
 - 🔭 I’m currently working on **a near real-time location tracking system built on a microservices architecture, leveraging AWS services for scalability and reliability.**
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/phucnddev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/phucnddev" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/phucnddev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/phucnddev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
