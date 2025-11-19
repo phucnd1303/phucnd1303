@@ -9,7 +9,8 @@ on a microservices architecture, leveraging AWS services for scalability and
 reliability.**
 - 👯 I’m looking to collaborate on **open-source projects or
 high-performance system.**
-- 📫 How to reach me **phucnd.dev@gmail.com** - ⚡
+- 📫 How to reach me **phucnd.dev@gmail.com** 
+- ⚡
 Fun fact **Never Trust, Always Verify**
 
 <h3 align="left">Connect with me:</h3>
