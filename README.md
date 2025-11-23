@@ -74,5 +74,5 @@ Fun fact **Never Trust, Always Verify**
 
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=phucnd1303&show_icons=true&theme=dark"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phucnd1303&hide_langs_below=1&layout=compact&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phucnd1303&hide_langs_below=10&layout=compact&theme=dark"/>
 </p>
